@@ -15,3 +15,6 @@ x preys on y
 y preys on z
 
 z preys on x
+
+
+c<sub>i</sub> is the consumption rate, d<sub>i</sub> is the natural death rate
