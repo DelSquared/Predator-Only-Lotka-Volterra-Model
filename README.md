@@ -10,11 +10,6 @@ z' = c<sub>z</sub> zx - c<sub>y</sub> zy - d<sub>z</sub> z
 
 <br>
 
-x preys on y
-
-y preys on z
-
-z preys on x
-
+x preys on y, y preys on z, z preys on x (like rock-paper-scissors)
 
 c<sub>i</sub> is the consumption rate, d<sub>i</sub> is the natural death rate
